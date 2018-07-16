@@ -1,2 +1,14 @@
 Algorithms and Data Structures: The Basic Toolbox by K. Mehlhorn and P. Sanders
 https://people.mpi-inf.mpg.de/~mehlhorn/Toolbox.html
+
+How To Be a Better Developer with Programming Challenges
+https://www.raywenderlich.com/135789/how-to-be-a-better-developer-with-programming-challenges
+
+Different aspects of life as a software developer
+book: "Soft Skills: The software developer's life manual" by John Sonmez
+
+Clever solutions to irritating problems
+book: "Programming Pearls" by Jon Bentley
+
+Interview Qs on algorithms, on deriving solutions, strategies, essential topics, Google/FB hiring process
+book: "Cracking the Coding Interview: 189 Programming Questions and Solutions" by Gayle Laakmann McDowell
