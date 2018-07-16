@@ -1,0 +1,2 @@
+Algorithms and Data Structures: The Basic Toolbox by K. Mehlhorn and P. Sanders
+https://people.mpi-inf.mpg.de/~mehlhorn/Toolbox.html
